@@ -90,8 +90,6 @@ Ball.prototype.collisionDetect = function () {
     })
 }
 
-EvilBall
-
 let balls = [];
 
 while (balls.length <= 25) {
