@@ -1,8 +1,13 @@
-class Ball extends Shape{
-    Constructor(x, y, velX, velY, color, size) {
+import { Shape } from "./Shape.js";
+import { EvilCircle } from "./EvilCircle.js";
+import { width, height, ctx, canvas, balls, count, para, random, randomRGB } from "./main.js";
+
+export class Ball extends Shape{
+    constructor(x, y, velX, velY, color, size, ctx) {
         super(x, y, velX, velY);
         this.color = color;
         this.size = size;
+        this.ctx = ctx;
     }
 
     draw(){

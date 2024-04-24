@@ -1,8 +1,14 @@
-class EvilCircle extends Shape {
-    constructor(x, y){
+import { Shape } from "./Shape.js";
+import { Ball } from "./Ball.js";
+import { width, height, ctx, canvas, balls, count, para, random, randomRGB } from "./main.js";
+
+
+export class EvilCircle extends Shape {
+    constructor(x, y, ctx){
         super(x, y, 20, 20);
         this.color = 'white';
         this.size = 10;
+        this.ctx
     }
 
     draw() {

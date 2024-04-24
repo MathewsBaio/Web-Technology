@@ -1,4 +1,4 @@
-class Shape{
+export class Shape{
     Constructor(x, y, velX, velY) {
         this.x = x;
         this.y = y;
