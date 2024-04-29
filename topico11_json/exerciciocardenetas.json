@@ -1,0 +1,26 @@
+{
+    "Contatos": [
+        {
+            "nome": "nomeA",
+            "endereco": [
+                {
+                    "rua": "ruaA",
+                    "numero": 123,
+                    "cep": "1234-45"
+                }
+            ],
+            "telefone": "1234-4567"
+        },
+        {
+            "nome": "nomeB",
+            "endereco": [
+                {
+                    "rua": "ruaB",
+                    "numero": 456,
+                    "cep": "5678-32"
+                }
+            ],
+            "telefone": "2489-7654"
+        }
+    ]
+}
