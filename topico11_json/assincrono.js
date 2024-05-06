@@ -18,25 +18,68 @@
 
 // // ordem -> 'Log 1', 'Log 2', 'Time 1', 'Time 3', 'Time 2'
 
-const promessa = new Promise(function (resolve, reject) {
+const rua = new Promise(function (resolve, reject) {
     let condicao, endereco;
     setTimeout(() => {
         condicao = true;
-        endereco = "Rua A"
-        resolve("Rua A");
-    },5000);
-    
-    
+        if (condicao) {
+            resolve("Rua A");    
+        } else {
+            reject(Error("Não foi possível carregar o endereço!"))
+        }
+        
+    },3000);
 })
+
+const cidade = new Promise(function (resolve, reject) {
+    let condicao, endereco;
+    setTimeout(() => {
+        condicao = true;
+        if (condicao) {
+            resolve("Juiz de Fora");    
+        } else {
+            reject(Error("Não foi possível carregar o endereço!"))
+        }
+        
+    },2000); 
+})
+
+const endereco = Promise.all([rua, cidade]);
+
+endereco.then(resolve => {
+    console.log(resolve);
+})
+
 
 document.body.innerText = "C A R R E G A N D O . . .";
 
-promessa.then((resolve) => {
+rua.then(resolve => {
     document.body.innerText = resolve;
     return "Juiz de Fora";
-}).then((resolve) => {
-    document.body.innerHTML += `<br> ${resolve}`;
-    return "MG";
-}).then((resolve) => {
-    document.body.innerHTML += `<br> ${resolve}`;
-}) 
+}).catch (reject => {
+    document.body.innerText = reject;
+}).finally (() => {
+    document.body.innerHTML += `<br> Processamento finalizado!`;
+})
+
+
+const rua2 = new Promise(function (resolve, reject) {
+    let condicao, endereco;
+    setTimeout(() => {
+        condicao = true;
+        if (condicao) {
+            resolve("Rua A2");    
+        } else {
+            reject(Error("Não foi possível carregar o endereço!"))
+        }
+        
+    },1000);
+})
+
+const endereco2 = Promise.race([rua, rua2]);
+
+endereco2.then(resolve => {
+    console.log(resolve);
+})
+
+
