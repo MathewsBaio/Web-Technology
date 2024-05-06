@@ -83,3 +83,16 @@ endereco2.then(resolve => {
 })
 
 
+fetch('./exerciciocardenetas.json').then(response => {
+    return response.json()
+}).then(data => {
+    return data.Contatos
+    
+}).then(contatos => {
+    let codigo = `<ul> \n`
+    contatos.forEach(contato => {
+        codigo += `<li>${contato.nome}</li>`;
+    });
+    codigo += `</ul>`;
+    document.body.innerHTML = codigo;
+})
