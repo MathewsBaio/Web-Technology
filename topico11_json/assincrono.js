@@ -96,3 +96,6 @@ fetch('./exerciciocardenetas.json').then(response => {
     codigo += `</ul>`;
     document.body.innerHTML = codigo;
 })
+
+
+
