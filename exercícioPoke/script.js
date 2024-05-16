@@ -37,7 +37,8 @@ antButton.addEventListener('click', e => {
 async function requestPokemon(value) {
     const dataResponse = await fetch(`https://pokeapi.co/api/v2/pokemon/${value}`)
     const dataJson = await dataResponse.json();
-    
+
+        
         nome.textContent = `Nome: ${dataJson.name}`
 
         list.innerHTML = ' '
@@ -47,6 +48,8 @@ async function requestPokemon(value) {
         });
 
         image.src = `${dataJson.sprites.front_default}`
+
+        resStatus.src = `https://http.cat/${dataResponse.status}`
         
     
 }
