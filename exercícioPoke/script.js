@@ -17,6 +17,7 @@ let proxButton = document.querySelector('#prox')
 let antButton = document.querySelector('#ant');
 let num = 1;
 let tipos;
+let resStatus = document.querySelector(`#status`)
 
 proxButton.addEventListener('click', e => {
     num++;
