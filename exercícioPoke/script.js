@@ -19,6 +19,7 @@ let num = 1;
 let tipos;
 let resStatus = document.querySelector(`#status`)
 
+
 proxButton.addEventListener('click', e => {
     num++;
     numPara.textContent = num; 
@@ -26,7 +27,7 @@ proxButton.addEventListener('click', e => {
 })
 
 antButton.addEventListener('click', e => {
-    if(num > 1) {
+    if(num > 0) {
         num--;
         numPara.textContent = num;
         requestPokemon(num);
