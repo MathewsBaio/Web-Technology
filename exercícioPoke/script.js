@@ -27,10 +27,10 @@ proxButton.addEventListener('click', e => {
 })
 
 antButton.addEventListener('click', e => {
-    if(num > 0) {
+    if(num > 1) {
         num--;
         numPara.textContent = num;
-        requestPokemon(num);
+        requestPokemon(num)
     }
 })
 
