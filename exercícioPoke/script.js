@@ -27,7 +27,7 @@ proxButton.addEventListener('click', e => {
 })
 
 antButton.addEventListener('click', e => {
-    if(num > 1) {
+    if(num > -5) {
         num--;
         numPara.textContent = num;
         requestPokemon(num)
@@ -36,8 +36,11 @@ antButton.addEventListener('click', e => {
 
 
 async function requestPokemon(value) {
-    const dataResponse = await fetch(`https://pokeapi.co/api/v2/pokemon/${value}`)
-    const dataJson = await dataResponse.json();
+
+    try{
+
+        const dataResponse = await fetch(`https://pokeapi.co/api/v2/pokemon/${value}`)
+        const dataJson = await dataResponse.json();
 
         
         nome.textContent = `Nome: ${dataJson.name}`
@@ -50,7 +53,20 @@ async function requestPokemon(value) {
 
         image.src = `${dataJson.sprites.front_default}`
 
-        resStatus.src = `https://http.cat/${dataResponse.status}`
+        resStatus.style.display = "none"
+        image.setAttribute('width', '10%')
+
+    } catch(error) {
+
+        resStatus.style.display = "block"
+        image.setAttribute('width', '15%')
+        image.src = `https://http.cat/404`
+        nome.textContent = `Nome: NOT FOUND`
+
+    }
+    
+
+        
         
     
 }
