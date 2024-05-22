@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack --mode development --watch --entry ./js/script.js -o ./dist/"
+    "dev": "webpack --mode development --watch --entry ./js/script.js -o ./dist/",
+    "build": "webpack --mode production --entry ./js/script.js -o ./dist/"
     
   },
   "keywords": [],
