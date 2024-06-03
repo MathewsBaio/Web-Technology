@@ -1,0 +1,1333 @@
+{
+    "bagmon": [
+        {
+            "dex": "#001",
+            "nome": "Voara",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "01.jpeg"
+        },
+        {
+            "dex": "#002",
+            "nome": "Azurara",
+            "tipos": [
+                "planta",
+                "voador"
+            ],
+            "imagem": "02.jpeg"
+        },
+        {
+            "dex": "#003",
+            "nome": "Ararazul",
+            "tipos": [
+                "planta",
+                "voador"
+            ],
+            "imagem": "03.jpeg"
+        },
+        {
+            "dex": "#004",
+            "nome": "Pequemico",
+            "tipos": [
+                "fogo"
+            ],
+            "imagem": "04.jpeg"
+        },
+        {
+            "dex": "#005",
+            "nome": "Micorado",
+            "tipos": [
+                "fogo"
+            ],
+            "imagem": "05.jpeg"
+        },
+        {
+            "dex": "#006",
+            "nome": "Douraleão",
+            "tipos": [
+                "fogo",
+                "aço"
+            ],
+            "imagem": "06.jpeg"
+        },
+        {
+            "dex": "#007",
+            "nome": "Capi",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "07.jpeg"
+        },
+        {
+            "dex": "#008",
+            "nome": "Varacapi",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "08.jpeg"
+        },
+        {
+            "dex": "#009",
+            "nome": "Capilorde",
+            "tipos": [
+                "água",
+                "pedra"
+            ],
+            "imagem": "09.jpeg"
+        },
+        {
+            "dex": "#010",
+            "nome": "Tamanduí",
+            "tipos": [
+                "terra"
+            ],
+            "imagem": "10.jpeg"
+        },
+        {
+            "dex": "#011",
+            "nome": "Tamirin",
+            "tipos": [
+                "terra"
+            ],
+            "imagem": "11.jpeg"
+        },
+        {
+            "dex": "#012",
+            "nome": "Lutanduá",
+            "tipos": [
+                "terra",
+                "lutador"
+            ],
+            "imagem": "12.jpeg"
+        },
+        {
+            "dex": "#013",
+            "nome": "Caralata",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "13.jpeg"
+        },
+        {
+            "dex": "#014",
+            "nome": "Caramelo",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "14.jpeg"
+        },
+        {
+            "dex": "#015",
+            "nome": "Viramelo",
+            "tipos": [
+                "normal",
+                "psíquico"
+            ],
+            "imagem": "15.jpeg"
+        },
+        {
+            "dex": "#016",
+            "nome": "Iaçá",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "16.jpeg"
+        },
+        {
+            "dex": "#017",
+            "nome": "Açaíne",
+            "tipos": [
+                "planta",
+                "lutador"
+            ],
+            "imagem": "17.jpeg"
+        },
+        {
+            "dex": "#018",
+            "nome": "Naná",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "18.jpeg"
+        },
+        {
+            "dex": "#019",
+            "nome": "Guaranin",
+            "tipos": [
+                "planta",
+                "psíquico"
+            ],
+            "imagem": "19.jpeg"
+        },
+        {
+            "dex": "#020",
+            "nome": "Beboto",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "20.jpeg"
+        },
+        {
+            "dex": "#021",
+            "nome": "Bodutor",
+            "tipos": [
+                "água",
+                "psíquico"
+            ],
+            "imagem": "21.jpeg"
+        },
+        {
+            "dex": "#022",
+            "nome": "Laguito",
+            "tipos": [
+                "inseto"
+            ],
+            "imagem": "22.jpeg"
+        },
+        {
+            "dex": "#023",
+            "nome": "Durito",
+            "tipos": [
+                "inseto"
+            ],
+            "imagem": "23.jpeg"
+        },
+        {
+            "dex": "#024",
+            "nome": "Bansquito",
+            "tipos": [
+                "inseto",
+                "água",
+                "voador"
+            ],
+            "imagem": "24.jpeg"
+        },
+        {
+            "dex": "#025",
+            "nome": "Chanin",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "25.jpeg"
+        },
+        {
+            "dex": "#026",
+            "nome": "Fofilho",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "26.jpeg"
+        },
+        {
+            "dex": "#027",
+            "nome": "Slicurau",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "27.jpeg"
+        },
+        {
+            "dex": "#028",
+            "nome": "Pamonhana",
+            "tipos": [
+                "planta",
+                "fada"
+            ],
+            "imagem": "28.jpeg"
+        },
+        {
+            "dex": "#029",
+            "nome": "Jondi",
+            "tipos": [
+                "terra",
+                "voador"
+            ],
+            "imagem": "29.jpeg"
+        },
+        {
+            "dex": "#030",
+            "nome": "Bojarro",
+            "tipos": [
+                "terra",
+                "voador"
+            ],
+            "imagem": "30.jpeg"
+        },
+        {
+            "dex": "#031",
+            "nome": "Benja",
+            "tipos": [
+                "sintético",
+                "elétrico"
+            ],
+            "imagem": "31.jpeg"
+        },
+        {
+            "dex": "#032",
+            "nome": "Benjamais",
+            "tipos": [
+                "sintético",
+                "elétrico"
+            ],
+            "imagem": "32.jpeg"
+        },
+        {
+            "dex": "#033",
+            "nome": "Benjamuitos",
+            "tipos": [
+                "sintético",
+                "elétrico",
+                "fogo"
+            ],
+            "imagem": "33.jpeg"
+        },
+        {
+            "dex": "#034",
+            "nome": "Pondi",
+            "tipos": [
+                "fada"
+            ],
+            "imagem": "34.jpeg"
+        },
+        {
+            "dex": "#035",
+            "nome": "Diquejos",
+            "tipos": [
+                "fada"
+            ],
+            "imagem": "35.jpeg"
+        },
+        {
+            "dex": "#036",
+            "nome": "Besarela",
+            "tipos": [
+                "inseto",
+                "voador"
+            ],
+            "imagem": "36.jpeg"
+        },
+        {
+            "dex": "#037",
+            "nome": "Besercules",
+            "tipos": [
+                "inseto",
+                "aço",
+                "voador"
+            ],
+            "imagem": "37.jpeg"
+        },
+        {
+            "dex": "#038",
+            "nome": "Julicac",
+            "tipos": [
+                "planta",
+                "terra"
+            ],
+            "imagem": "38.jpeg"
+        },
+        {
+            "dex": "#039",
+            "nome": "Caquilete",
+            "tipos": [
+                "planta",
+                "terra"
+            ],
+            "imagem": "39.jpeg"
+        },
+        {
+            "dex": "#040",
+            "nome": "Grafé",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "40.jpeg"
+        },
+        {
+            "dex": "#041",
+            "nome": "Torrafé",
+            "tipos": [
+                "planta",
+                "fogo"
+            ],
+            "imagem": "41.jpeg"
+        },
+        {
+            "dex": "#042",
+            "nome": "Cafasma",
+            "tipos": [
+                "planta",
+                "fogo",
+                "fantasma"
+            ],
+            "imagem": "42.jpeg"
+        },
+        {
+            "dex": "#043",
+            "nome": "Duratista",
+            "tipos": [
+                "pedra"
+            ],
+            "imagem": "43.jpeg"
+        },
+        {
+            "dex": "#044",
+            "nome": "Dutrino",
+            "tipos": [
+                "pedra"
+            ],
+            "imagem": "44.jpeg"
+        },
+        {
+            "dex": "#045",
+            "nome": "Duraíba",
+            "tipos": [
+                "pedra",
+                "psíquico"
+            ],
+            "imagem": "45.jpeg"
+        },
+        {
+            "dex": "#046",
+            "nome": "Zégoti",
+            "tipos": [
+                "fada"
+            ],
+            "imagem": "46.jpeg"
+        },
+        {
+            "dex": "#047",
+            "nome": "Pfizegator",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "47.jpeg"
+        },
+        {
+            "dex": "#048",
+            "nome": "Jacarevac",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "48.jpeg"
+        },
+        {
+            "dex": "#049",
+            "nome": "Astracaré",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "49.jpeg"
+        },
+        {
+            "dex": "#050",
+            "nome": "Colote",
+            "tipos": [
+                "sintético",
+                "fada"
+            ],
+            "imagem": "50.jpeg"
+        },
+        {
+            "dex": "#051",
+            "nome": "Cajaça",
+            "tipos": [
+                "sintético",
+                "fada"
+            ],
+            "imagem": "51.jpeg"
+        },
+        {
+            "dex": "#052",
+            "nome": "Véiguerrero",
+            "tipos": [
+                "sintético",
+                "fada",
+                "lutador"
+            ],
+            "imagem": "52.jpeg"
+        },
+        {
+            "dex": "#053",
+            "nome": "Biscolacha",
+            "tipos": [
+                "normal",
+                "lutador"
+            ],
+            "imagem": "53.jpeg"
+        },
+        {
+            "dex": "#054",
+            "nome": "Bolachoito",
+            "tipos": [
+                "normal",
+                "lutador"
+            ],
+            "imagem": "54.jpeg"
+        },
+        {
+            "dex": "#055",
+            "nome": "Ratinrrato",
+            "tipos": [
+                "elétrico",
+                "água"
+            ],
+            "imagem": "55.jpeg"
+        },
+        {
+            "dex": "#056",
+            "nome": "Ratobum",
+            "tipos": [
+                "elétrico",
+                "água"
+            ],
+            "imagem": "56.jpeg"
+        },
+        {
+            "dex": "#057",
+            "nome": "Cuscute",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "57.jpeg"
+        },
+        {
+            "dex": "#058",
+            "nome": "Monstruz",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "58.jpeg"
+        },
+        {
+            "dex": "#059",
+            "nome": "Querokero",
+            "tipos": [
+                "voador"
+            ],
+            "imagem": "59.jpeg"
+        },
+        {
+            "dex": "#060",
+            "nome": "Querocaos",
+            "tipos": [
+                "voador",
+                "sombrio"
+            ],
+            "imagem": "60.jpeg"
+        },
+        {
+            "dex": "#061",
+            "nome": "Bemtevi",
+            "tipos": [
+                "voador",
+                "som"
+            ],
+            "imagem": "61.jpeg"
+        },
+        {
+            "dex": "#062",
+            "nome": "Bemteverei",
+            "tipos": [
+                "voador",
+                "som"
+            ],
+            "imagem": "62.jpeg"
+        },
+        {
+            "dex": "#063",
+            "nome": "Bemtevejo",
+            "tipos": [
+                "voador",
+                "som"
+            ],
+            "imagem": "63.jpeg"
+        },
+        {
+            "dex": "#064",
+            "nome": "Pregaiana",
+            "tipos": [
+                "fantasma",
+                "voador"
+            ],
+            "imagem": "64.jpeg"
+        },
+        {
+            "dex": "#065",
+            "nome": "Largata",
+            "tipos": [
+                "inseto"
+            ],
+            "imagem": "65.jpeg"
+        },
+        {
+            "dex": "#066",
+            "nome": "Casuleta",
+            "tipos": [
+                "inseto"
+            ],
+            "imagem": "66.jpeg"
+        },
+        {
+            "dex": "#067",
+            "nome": "Borboleto",
+            "tipos": [
+                "inseto",
+                "voador"
+            ],
+            "imagem": "67.jpeg"
+        },
+        {
+            "dex": "#068",
+            "nome": "Brabuleta",
+            "tipos": [
+                "inseto",
+                "voador"
+            ],
+            "imagem": "68.jpeg"
+        },
+        {
+            "dex": "#069",
+            "nome": "Uvisier",
+            "tipos": [
+                "planta",
+                "elétrico"
+            ],
+            "imagem": "69.jpeg"
+        },
+        {
+            "dex": "#070",
+            "nome": "Sansoelho",
+            "tipos": [
+                "fada",
+                "voador"
+            ],
+            "imagem": "70.jpeg"
+        },
+        {
+            "dex": "#071",
+            "nome": "Coxita",
+            "tipos": [
+                "fada",
+                "lutador"
+            ],
+            "imagem": "71.jpeg"
+        },
+        {
+            "dex": "#072",
+            "nome": "Pasfeira",
+            "tipos": [
+                "fada",
+                "fogo"
+            ],
+            "imagem": "72.jpeg"
+        },
+        {
+            "dex": "#073",
+            "nome": "Caldicana",
+            "tipos": [
+                "fantasma",
+                "planta"
+            ],
+            "imagem": "73.jpeg"
+        },
+        {
+            "dex": "#074",
+            "nome": "Pequetixa",
+            "tipos": [
+                "dragão",
+                "planta"
+            ],
+            "imagem": "74.jpeg"
+        },
+        {
+            "dex": "#075",
+            "nome": "Calanqui",
+            "tipos": [
+                "dragão",
+                "planta"
+            ],
+            "imagem": "75.jpeg"
+        },
+        {
+            "dex": "#076",
+            "nome": "Peteiú",
+            "tipos": [
+                "dragão",
+                "planta"
+            ],
+            "imagem": "76.jpeg"
+        },
+        {
+            "dex": "#077",
+            "nome": "Bezeta",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "77.jpeg"
+        },
+        {
+            "dex": "#078",
+            "nome": "Carapreta",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "78.jpeg"
+        },
+        {
+            "dex": "#079",
+            "nome": "Bezela",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "79.jpeg"
+        },
+        {
+            "dex": "#080",
+            "nome": "Vacarela",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "80.jpeg"
+        },
+        {
+            "dex": "#081",
+            "nome": "Capritidos",
+            "tipos": [
+                "normal",
+                "fada"
+            ],
+            "imagem": "81.jpeg"
+        },
+        {
+            "dex": "#082",
+            "nome": "Sapoeira",
+            "tipos": [
+                "lutador",
+                "venenoso"
+            ],
+            "imagem": "82.jpeg"
+        },
+        {
+            "dex": "#083",
+            "nome": "Jiusapo",
+            "tipos": [
+                "lutador",
+                "venenoso"
+            ],
+            "imagem": "83.jpeg"
+        },
+        {
+            "dex": "#084",
+            "nome": "Capagaz",
+            "tipos": [
+                "fantasma",
+                "venenoso"
+            ],
+            "imagem": "84.jpeg"
+        },
+        {
+            "dex": "#085",
+            "nome": "Carcego",
+            "tipos": [
+                "voador",
+                "sombrio",
+                "som"
+            ],
+            "imagem": "85.jpeg"
+        },
+        {
+            "dex": "#086",
+            "nome": "Morganca",
+            "tipos": [
+                "voador",
+                "sombrio",
+                "som"
+            ],
+            "imagem": "86.jpeg"
+        },
+        {
+            "dex": "#087",
+            "nome": "Bebolvo",
+            "tipos": [
+                "água",
+                "pedra"
+            ],
+            "imagem": "87.jpeg"
+        },
+        {
+            "dex": "#088",
+            "nome": "Octeddy",
+            "tipos": [
+                "água",
+                "som"
+            ],
+            "imagem": "88.jpeg"
+        },
+        {
+            "dex": "#089",
+            "nome": "Tazum",
+            "tipos": [
+                "sintético",
+                "voador"
+            ],
+            "imagem": "89.jpeg"
+        },
+        {
+            "dex": "#090",
+            "nome": "Montazo",
+            "tipos": [
+                "sintético",
+                "voador"
+            ],
+            "imagem": "90.jpeg"
+        },
+        {
+            "dex": "#091",
+            "nome": "Fantazo",
+            "tipos": [
+                "sintético",
+                "voador",
+                "fantasma"
+            ],
+            "imagem": "91.jpeg"
+        },
+        {
+            "dex": "#092",
+            "nome": "Feijote",
+            "tipos": [
+                "fantasma",
+                "gelo"
+            ],
+            "imagem": "92.jpeg"
+        },
+        {
+            "dex": "#093",
+            "nome": "Banloira",
+            "tipos": [
+                "fantasma",
+                "água"
+            ],
+            "imagem": "93.jpeg"
+        },
+        {
+            "dex": "#094",
+            "nome": "Mamuna",
+            "tipos": [
+                "planta",
+                "venenoso"
+            ],
+            "imagem": "94.jpeg"
+        },
+        {
+            "dex": "#095",
+            "nome": "Mantrio",
+            "tipos": [
+                "planta",
+                "venenoso"
+            ],
+            "imagem": "95.jpeg"
+        },
+        {
+            "dex": "#096",
+            "nome": "Massinas",
+            "tipos": [
+                "planta",
+                "venenoso",
+                "som"
+            ],
+            "imagem": "96.jpeg"
+        },
+        {
+            "dex": "#097",
+            "nome": "Jubará",
+            "tipos": [
+                "normal",
+                "voador"
+            ],
+            "imagem": "97.jpeg"
+        },
+        {
+            "dex": "#098",
+            "nome": "Josoré",
+            "tipos": [
+                "normal",
+                "voador"
+            ],
+            "imagem": "98.jpeg"
+        },
+        {
+            "dex": "#099",
+            "nome": "Fixuxo",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "99.jpeg"
+        },
+        {
+            "dex": "#100",
+            "nome": "Txucão",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "100.jpeg"
+        },
+        {
+            "dex": "#101",
+            "nome": "Chifíbio",
+            "tipos": [
+                "planta",
+                "venenoso"
+            ],
+            "imagem": "101.jpeg"
+        },
+        {
+            "dex": "#102",
+            "nome": "Saparrão",
+            "tipos": [
+                "planta",
+                "venenoso"
+            ],
+            "imagem": "102.jpeg"
+        },
+        {
+            "dex": "#103",
+            "nome": "Chimarrã",
+            "tipos": [
+                "planta",
+                "venenoso"
+            ],
+            "imagem": "103.jpeg"
+        },
+        {
+            "dex": "#104",
+            "nome": "Terereca",
+            "tipos": [
+                "planta",
+                "venenoso",
+                "gelo"
+            ],
+            "imagem": "104.jpeg"
+        },
+        {
+            "dex": "#105",
+            "nome": "Sin",
+            "tipos": [
+                "psíquico"
+            ],
+            "imagem": "105.jpeg"
+        },
+        {
+            "dex": "#106",
+            "nome": "Salabin",
+            "tipos": [
+                "psíquico"
+            ],
+            "imagem": "106.jpeg"
+        },
+        {
+            "dex": "#107",
+            "nome": "Ziriguidum",
+            "tipos": [
+                "psíquico",
+                "som"
+            ],
+            "imagem": "107.jpeg"
+        },
+        {
+            "dex": "#108",
+            "nome": "Elecbol",
+            "tipos": [
+                "sintético",
+                "elétrico"
+            ],
+            "imagem": "108.jpeg"
+        },
+        {
+            "dex": "#109",
+            "nome": "Brazorb",
+            "tipos": [
+                "sintético",
+                "elétrico"
+            ],
+            "imagem": "109.jpeg"
+        },
+        {
+            "dex": "#110",
+            "nome": "Doncorvo",
+            "tipos": [
+                "água",
+                "voador"
+            ],
+            "imagem": "110.jpeg"
+        },
+        {
+            "dex": "#111",
+            "nome": "Canarin",
+            "tipos": [
+                "normal",
+                "voador"
+            ],
+            "imagem": "111.jpeg"
+        },
+        {
+            "dex": "#112",
+            "nome": "Pistolin",
+            "tipos": [
+                "lutador",
+                "voador"
+            ],
+            "imagem": "112.jpeg"
+        },
+        {
+            "dex": "#113",
+            "nome": "Tatuleco",
+            "tipos": [
+                "terra",
+                "pedra"
+            ],
+            "imagem": "113.jpeg"
+        },
+        {
+            "dex": "#114",
+            "nome": "Tatunastra",
+            "tipos": [
+                "terra",
+                "pedra"
+            ],
+            "imagem": "114.jpeg"
+        },
+        {
+            "dex": "#115",
+            "nome": "Tupin",
+            "tipos": [
+                "voador",
+                "normal"
+            ],
+            "imagem": "115.jpeg"
+        },
+        {
+            "dex": "#116",
+            "nome": "Volpiniquin",
+            "tipos": [
+                "voador",
+                "elétrico"
+            ],
+            "imagem": "116.jpeg"
+        },
+        {
+            "dex": "#117",
+            "nome": "Floriniquin",
+            "tipos": [
+                "voador",
+                "planta"
+            ],
+            "imagem": "117.jpeg"
+        },
+        {
+            "dex": "#118",
+            "nome": "Hidroniquin",
+            "tipos": [
+                "voador",
+                "água"
+            ],
+            "imagem": "118.jpeg"
+        },
+        {
+            "dex": "#119",
+            "nome": "Brasaniquin",
+            "tipos": [
+                "voador",
+                "fogo"
+            ],
+            "imagem": "119.jpeg"
+        },
+        {
+            "dex": "#120",
+            "nome": "Titaniquin",
+            "tipos": [
+                "voador",
+                "aço"
+            ],
+            "imagem": "120.jpeg"
+        },
+        {
+            "dex": "#121",
+            "nome": "Urumengo",
+            "tipos": [
+                "voador",
+                "sombrio"
+            ],
+            "imagem": "121.jpeg"
+        },
+        {
+            "dex": "#122",
+            "nome": "Cebrutius",
+            "tipos": [
+                "sintético",
+                "aço",
+                "som"
+            ],
+            "imagem": "122.jpeg"
+        },
+        {
+            "dex": "#123",
+            "nome": "Diguidim",
+            "tipos": [
+                "sintético",
+                "aço",
+                "som"
+            ],
+            "imagem": "123.jpeg"
+        },
+        {
+            "dex": "#124",
+            "nome": "Orcantos",
+            "tipos": [
+                "água",
+                "gelo"
+            ],
+            "imagem": "124.jpeg"
+        },
+        {
+            "dex": "#125",
+            "nome": "Pormeiras",
+            "tipos": [
+                "planta",
+                "terra"
+            ],
+            "imagem": "125.jpeg"
+        },
+        {
+            "dex": "#126",
+            "nome": "Santaulo",
+            "tipos": [
+                "psíquico",
+                "fada"
+            ],
+            "imagem": "126.jpeg"
+        },
+        {
+            "dex": "#127",
+            "nome": "Mosquião",
+            "tipos": [
+                "voador",
+                "aço"
+            ],
+            "imagem": "127.jpeg"
+        },
+        {
+            "dex": "#128",
+            "nome": "Peixuanã",
+            "tipos": [
+                "água"
+            ],
+            "imagem": "128.jpeg"
+        },
+        {
+            "dex": "#129",
+            "nome": "Pirarupeixe",
+            "tipos": [
+                "água",
+                "sombrio"
+            ],
+            "imagem": "129.jpeg"
+        },
+        {
+            "dex": "#130",
+            "nome": "Imperátilus",
+            "tipos": [
+                "dragão",
+                "elétrico",
+                "som"
+            ],
+            "imagem": "130.jpeg"
+        },
+        {
+            "dex": "#131",
+            "nome": "Irritator",
+            "tipos": [
+                "pedra",
+                "água"
+            ],
+            "imagem": "131.jpeg"
+        },
+        {
+            "dex": "#132",
+            "nome": "Celeconda",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "132.jpeg"
+        },
+        {
+            "dex": "#133",
+            "nome": "Suculeste",
+            "tipos": [
+                "planta",
+                "psíquico"
+            ],
+            "imagem": "133.jpeg"
+        },
+        {
+            "dex": "#134",
+            "nome": "Ursocotom",
+            "tipos": [
+                "normal"
+            ],
+            "imagem": "134.jpeg"
+        },
+        {
+            "dex": "#135",
+            "nome": "Araupinha",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "135.jpeg"
+        },
+        {
+            "dex": "#136",
+            "nome": "Araubroto",
+            "tipos": [
+                "planta"
+            ],
+            "imagem": "136.jpeg"
+        },
+        {
+            "dex": "#137",
+            "nome": "Arauforte",
+            "tipos": [
+                "planta",
+                "lutador"
+            ],
+            "imagem": "137.jpeg"
+        },
+        {
+            "dex": "#138",
+            "nome": "Xunave",
+            "tipos": [
+                "cósmico",
+                "aço"
+            ],
+            "imagem": "138.jpeg"
+        },
+        {
+            "dex": "#139",
+            "nome": "Cristaluna",
+            "tipos": [
+                "cósmico",
+                "fada"
+            ],
+            "imagem": "139.jpeg"
+        },
+        {
+            "dex": "#140",
+            "nome": "Sereiara",
+            "tipos": [
+                "água",
+                "psíquico",
+                "som"
+            ],
+            "imagem": "140.jpeg"
+        },
+        {
+            "dex": "#141",
+            "nome": "Piropira",
+            "tipos": [
+                "planta",
+                "fogo"
+            ],
+            "imagem": "141.jpeg"
+        },
+        {
+            "dex": "#142",
+            "nome": "Sacerê",
+            "tipos": [
+                "voador",
+                "psíquico"
+            ],
+            "imagem": "142.jpeg"
+        },
+        {
+            "dex": "#143",
+            "nome": "Cobratá",
+            "tipos": [
+                "fogo",
+                "sombrio"
+            ],
+            "imagem": "143.jpeg"
+        },
+        {
+            "dex": "#144",
+            "nome": "Mulantã",
+            "tipos": [
+                "fogo",
+                "fantasma"
+            ],
+            "imagem": "144.jpeg"
+        },
+        {
+            "dex": "#145",
+            "nome": "Mapinguá",
+            "tipos": [
+                "lutador",
+                "terra"
+            ],
+            "imagem": "145.jpeg"
+        },
+        {
+            "dex": "#146",
+            "nome": "Loguará",
+            "tipos": [
+                "terra",
+                "sombrio"
+            ],
+            "imagem": "146.jpeg"
+        },
+        {
+            "dex": "#147",
+            "nome": "Iaguará",
+            "tipos": [
+                "aço",
+                "sombrio"
+            ],
+            "imagem": "147.jpeg"
+        },
+        {
+            "dex": "#148",
+            "nome": "Velopya",
+            "tipos": [
+                "voador",
+                "sombrio"
+            ],
+            "imagem": "148.jpeg"
+        },
+        {
+            "dex": "#149",
+            "nome": "Gambiarros",
+            "tipos": [
+                "sintético",
+                "indefinido"
+            ],
+            "imagem": "149.jpeg"
+        },
+        {
+            "dex": "#150",
+            "nome": "Bilu",
+            "tipos": [
+                "cósmico",
+                "psíquico"
+            ],
+            "imagem": "150.jpeg"
+        },
+        {
+            "dex": "#151",
+            "nome": "Bivaldo",
+            "tipos": [
+                "cósmico",
+                "psíquico"
+            ],
+            "imagem": "151.jpeg"
+        }
+    ]
+}

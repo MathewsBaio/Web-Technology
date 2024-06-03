@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    transition: all 0.4s ease;
+}
+
+body .subtitle,
+body .title {
+    color: hsl(171, 100%, 41%);
+}
+
+body.dark {
+    background-color: hsl(0, 0%, 21%);
+    color: hsl(171, 100%, 96%);
+}
+
+body.dark .subtitle,
+body.dark .title {
+    color: hsl(142, 52%, 96%);
+}
+
+.navbar-item img {
+    max-height: 4rem;
+    padding: 5px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    padding: .8rem;
+    border-radius: 6px;
+
+}
+
+.bd-pagination-prev {
+    float: left;
+}
+
+.bd-pagination-next {
+    float: right;
+}
+
+.image img {
+    display: block;
+    max-height: 45vh;
+    width: auto;
+    margin: auto;
+}
+
+.dark img {
+    filter: brightness(0.8);
+}
+
+#nome{
+    color: hsl(0, 0%, 23%);
+}
+
+.tag:not(body){
+    height: 3em;
+    font-size: 1em;
+    margin: 5px;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+
+#planta{
+    background-color: #ebfffc;
+    color: #00947e;
+}
+
+#voador{
+    background-color: #ebebff;
+    color: #005e94;
+}
+
+#fogo{
+    background-color: #ffebeb;
+    color: #941600;
+}
+
+#aço{
+    background-color: #ececec;
+    color: #4b4b4b;
+}
+
+#água{
+    background-color: #ebffff;
+    color: #007194;
+}
+
+#pedra{
+    background-color: #d1d0cf;
+    color: #945400;
+}
+
+#terra{
+    background-color: #fff7eb;
+    color: #946500;
+}
+
+#lutador{
+    background-color: #fffdeb;
+    color: #948a00;
+}
+
+#normal{
+    background-color: #ebf5ff;
+    color: #005194;
+}
+
+#psíquico{
+    background-color: #ffebfc;
+    color: #6a0094;
+}
+
+#inseto{
+    background-color: #ebfff0;
+    color: #5b9400;
+}
+
+#fada{
+    background-color: #ffebfb;
+    color: #00947e;
+}
+
+#sintético{
+    background-color: #ebfffc;
+    color: #940068;
+}
+
+#elétrico{
+    background-color: #fffceb;
+    color: #949100;
+}
+
+#fantasma{
+    background-color: #ffebf7;
+    color: #650094;
+}
+
+#som{
+    background-color: #ffffeb;
+    color: #003b94;
+}
+
+#dragão{
+    background-color: #f3ebff;
+    color: #940000;
+}
+
+#venenoso{
+    background-color: #fbebff;
+    color: #510094;
+}
+
+#sombrio{
+    background-color: #d6d6d6;
+    color: #434747;
+}
+
+#gelo{
+    background-color: #ebf9ff;
+    color: #007194;
+}
+
+#cósmico{
+    background-color: #a8a8a8;
+    color: #160094;
+}
+
+#indefinido{
+    background-color: #edffeb;
+    color: #947e00; 
+}
