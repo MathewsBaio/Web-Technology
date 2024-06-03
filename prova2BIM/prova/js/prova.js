@@ -7,6 +7,77 @@ Utilize async e await para ler o conjunto de dados do arquivo data/bagmon.json.
 Utilize este conjunto de dados para criar um array de objetos da classe Bagmon.
 */
 
+async function instanciarObjeto(index) {
+    
+    try {
+        const response = await fetch('../data/bagmon.json');
+        const data = await response.json(); 
+        
+        let dex, nome, tipos, urlImagem;
+
+        dex = data.bagmon[index].dex
+        nome = data.bagmon[index].nome
+    } catch (error) {
+        
+    }
+    
+
+
+    
+}
+
+
+class Bagmon {
+    
+    #dex;
+    #nome;
+    #tipos
+    #urlImagem
+    
+    constructor(dex, nome, tipos, urlImagem) {
+        
+        this.#dex = dex
+        this.#nome = nome
+        this.#tipos = tipos
+        this.#urlImagem = urlImagem
+
+    }
+
+    get dex() {
+        return this.#dex;
+    }
+
+    set dex(dex) {
+        this.#dex = dex;
+    }
+
+    get nome() {
+        return this.#nome;
+    }
+
+    set nome(nome) {
+        this.#nome = nome;
+    }
+
+    get tipos() {
+        return this.#tipos;
+    }
+
+    set tipos(tipos) {
+        this.#tipos = tipos;
+    }
+
+    get urlImagem() {
+        return this.#urlImagem;
+    }
+
+    set urlImagem(urlImagem) {
+        this.#urlImagem = urlImagem;
+    }
+
+
+}
+
 
 
 /* Questão 2- Galeria de Imagens (2.0 pt)
